@@ -9,4 +9,4 @@ The code in fine_tuning.py is just an example for this fine-tuning strategy, we 
 The focal Dice loss is in loss_function.py which should be used combined with nnU-Net.
 
 ## Acknowledgements
-- Itme 1 This code repository refers to nnU-Net, 
+This code repository refers to [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)
